@@ -3,3 +3,6 @@ description: This is where I'll put my project updates
 google_analytics: G-T2TJ1Y51ZM
 theme: jekyll-theme-tactile
 author: José Mira [zmira]
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
